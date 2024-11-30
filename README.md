@@ -25,9 +25,10 @@
 ---
 
 ## 💾 How to Use
-
-1. Enter the Battlemetrics Server URL that you wish to connect to.  
-2. Start and wait. :)
+1. You need .NET Runtime 8.0
+1. [Download exe](https://github.com/erik429/Why_you_coming_fast/releases/download/RustBot/WHY.YOU.COME.FAST.exe)
+2. Enter the Battlemetrics Server URL that you wish to connect to.
+3. Start and wait. :)
 
 ---
 
