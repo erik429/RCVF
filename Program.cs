@@ -17,7 +17,7 @@ class Program
         bool shouldRestart = false;
         int delay = 500;
         int timeout = 200;
-        string token = "your_battlemetrics_token";
+        string token = "your_battlemetrics_token_here";
         Console.Title = "WHY YOU COME FAST";
         string[] lines = new[]
         {
@@ -52,7 +52,7 @@ class Program
             Console.WriteLine(lines[i]);
         }
         Console.ForegroundColor = ConsoleColor.White;
-        Console.WriteLine("My steam https://steamcommunity.com/id/34211155035578432/\nMade by Bing cilling :>");
+        Console.WriteLine("My steam https://steamcommunity.com/id/34211155035578432/\nMade by Bing chilling :>");
         Console.ForegroundColor = ConsoleColor.Yellow;
         Console.WriteLine("\nHave Rust running \nDon’t have the console open \nConsole bound to F1 (default)");
         while (true)
